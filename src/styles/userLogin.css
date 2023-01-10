@@ -1,0 +1,43 @@
+
+.ufimg{
+    background-image:url("../../public/images/pngtree-world.jpg") ;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin-top: -50px;
+}
+
+.form {
+   width: 500px;
+   height: 500px;
+   border-radius: 20px;
+   position: relative;
+    top:80px;
+    box-shadow: 5px 5px 6px black;
+    
+}
+
+.user_form{
+    margin-top: 30px;
+}
+
+.form_input input{
+    margin-top: 20px;
+    box-shadow: 15px 15px 15px black;
+}
+
+.user_btn{
+margin: 40px;
+background-color: green;
+padding: 10px 30px;
+border: none;
+border-radius: 12px;
+}
+#usrh1{
+    position: relative;
+    top: -20px;
+ }
+ .loginimg{
+    position: relative;
+    top: -50px;
+ }

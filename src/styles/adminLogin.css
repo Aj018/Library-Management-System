@@ -1,0 +1,37 @@
+
+.afimg{
+    background-image:url("../../public/images/pngtree-world.jpg") ;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin-top: -50px;
+}
+
+.form {
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
+ }
+ 
+ .admin_form{
+     margin-top: 30px;
+ }
+ 
+ .form_input input{
+     margin-top: 20px;
+     box-shadow: 15px 15px 15px black;
+ }
+ 
+ .admin_btn{
+ margin: 40px;
+ background-color:rgb(255, 94, 0);
+ padding: 10px 30px;
+ border: none;
+ border-radius: 12px;
+ }
+
+ #adh1{
+    position: relative;
+    top: -20px;
+ }
+ 
